@@ -1,0 +1,33 @@
+{
+  "main":"es.io.js",
+  "name":"es.io",
+  "version":"0.0.1",
+  "description":"Library communication ElasticSearch.",
+  "keywords":[
+    "elasticsearch",
+    "sync",
+    "io"
+  ],
+  "tags":[
+    "elasticsearch",
+    "sync"
+  ],
+  "author":{
+    "name":"Thiago Silva",
+    "name":"thiago.eti@gmail.com",
+    "url":"https://thiago.eti.br"
+  },
+  "repository":{
+    "type":"git",
+    "url":"github:thiagoeti/elasticsearch-nodejs"
+  },
+  "bugs":"https://github.com/thiagoeti/elasticsearch-nodejs/issues",
+  "dependencies":{
+    "axios": "*"
+  },
+  "license":"unlicense.org",
+  "engines":{
+    "node": "*",
+    "npm": "*"
+  }
+}
